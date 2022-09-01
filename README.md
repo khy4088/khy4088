@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Presto
+## Presto
 - Interested in Backend, Python. Deep Learning
 - Especially Interested in Object Detect, Sementic segmentation
 
